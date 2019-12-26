@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-26T21:17:45 CET" name="Default suite" finished-at="2019-12-26T21:18:22 CET" duration-ms="36407">
+    <groups>
+    </groups>
+    <test started-at="2019-12-26T21:17:45 CET" name="Default test" finished-at="2019-12-26T21:18:22 CET" duration-ms="36407">
+      <class name="page.tests.TestSignIn">
+        <test-method is-config="true" signature="before()[pri:0, instance:page.tests.TestSignIn@38c5cc4c]" started-at="2019-12-26T21:17:45 CET" name="before" finished-at="2019-12-26T21:17:59 CET" duration-ms="13649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="signInUser()[pri:0, instance:page.tests.TestSignIn@38c5cc4c]" started-at="2019-12-26T21:17:59 CET" name="signInUser" finished-at="2019-12-26T21:18:21 CET" duration-ms="21655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInUser -->
+        <test-method signature="testsignPage()[pri:0, instance:page.tests.TestSignIn@38c5cc4c]" started-at="2019-12-26T21:18:21 CET" name="testsignPage" finished-at="2019-12-26T21:18:22 CET" duration-ms="953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsignPage -->
+      </class> <!-- page.tests.TestSignIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
